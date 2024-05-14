@@ -54,7 +54,7 @@
 
 ## Output:
 
-### Name: KRIHNA KUMAR R
+### Name: KRISHNA KUMAR R
 ### Register Number: 212223230107
 
 ![Screenshot 2024-04-17 140334](https://github.com/Krishna23013541/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149557764/3c7f33af-757f-4444-b1e0-1ed1fcd7a4c4)
